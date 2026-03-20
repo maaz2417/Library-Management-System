@@ -12,7 +12,6 @@ def get_db():
         database="library_db"
     )
 
-# SHARED CSS - applies to every page
 STYLE = """
 <style>
     body { font-family: Arial, sans-serif; background: #f0f0f0; margin: 0; }
