@@ -1,7 +1,7 @@
 # Library-Management-System
 Library Book Management System
 A web-based library book management system built with Python Flask and MySQL. Allows a librarian to manage book records through a simple browser interface running locally.
-Features
+Features:
 
 Dashboard with live stats showing total books, copies, available, and out of stock count
 Add new books with input validation and duplicate ISBN check
